@@ -1,4 +1,4 @@
-import GrideTile from "@/components/grideTile";
+import GrideTile from "@/components/GrideTile";
 import jsImg from "../../app/images/javascript-logo.svg";
 import reactImg from "../../app/images/1174949_js_react js_logo_react_react native_icon.png";
 import nextimg from "../../app/images/1657707878-nextjs_logo.png";

@@ -1,4 +1,4 @@
-import Projects from "@/components/projects_Tile";
+import Projects from "@/components/Projects_Tile";
 import cardGame from "../images/Screenshot 2024-02-02 174501.png";
 import maths from "../images/Screenshot 2024-02-02 190925.png";
 export default function page1() {
