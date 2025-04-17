@@ -1,4 +1,4 @@
-import ResumeImg from "../images/resume1_page-0001.jpg";
+import ResumeImg from "../images/JORDAN_CALDWELL_Resume (4)-1.png";
 // import JS from "../images/javascript-logo.svg";
 import Image from "next/image";
 export default function page1() {

@@ -15,18 +15,19 @@ export default function HomePage() {
           className="border-2 border-slate-500"
         />
         <p className="bg-transparent py-20">
-          I'm Jordan, an 18-year-old with a passion for wrestling and a deep
-          love for the world of computers. My high school days were marked by
-          the physical challenges and camaraderie on the wrestling mat at
-          Ridgeline High. Now, I'm navigating the exciting terrain of Computer
-          Information Technology at USU, delving into the intricacies of the
-          digital realm. Having graduated from B Tech's web and mobile
-          development program, I've not only acquired theoretical knowledge but
-          also gained invaluable hands-on experience that fuels my enthusiasm
-          for technology. Computers have become my canvas, and whether I'm
-          coding, designing, or troubleshooting, I find fulfillment in every
-          aspect of the tech landscape. passions will take me in the dynamic
-          field of Information Technology
+          My name is Jordan Weston Caldwell, and I'm currently 20 years old and
+          in my junior year at Utah State University here in Logan, Utah. My
+          passion lies firmly in the world of computers, which is why I've
+          chosen to major in Technology Systems with a concentration in
+          Information and Computer Technology. To further solidify my
+          understanding and skills in this area, I'm also pursuing a minor in
+          Computer Science.Even before starting my university studies, I was
+          eager to gain practical experience, leading me to earn a software
+          engineering certificate from Bridgerland Technical College. Looking
+          ahead, my academic journey doesn't end with my bachelor's degree. I'm
+          planning to continue my education and pursue a Master's degree in
+          Computer Science to deepen my knowledge and open up even more
+          opportunities in the field I'm so enthusiastic about.
         </p>
       </div>
     </div>
