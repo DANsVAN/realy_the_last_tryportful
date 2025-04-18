@@ -10,7 +10,7 @@ export default function page1() {
       ></Projects>
       <Projects
         img={maths}
-        url="https://quickmath-real-4fl1-7h9akef8r-jordan-caldwells-projects.vercel.app/"
+        url="https://quickmath-real-4fl1.vercel.app/"
       ></Projects>
       <Projects img={""} url=""></Projects>
       <Projects img={""} url=""></Projects>
