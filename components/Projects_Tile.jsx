@@ -10,7 +10,7 @@ export default function Projects({ img, url }) {
     );
   } else {
     return (
-      <div className="rounded-lg border-slate-500 border h-24 w-24 sm:h-36 sm:w-36 md:h-36 md:w-36 lg:w-48 lg:h-48 xl:h-64 xl:w-64 2xl:h-80 2xl:w-80 justify-self-auto ">
+      <div className="rounded-lg  h-24 w-24 sm:h-36 sm:w-36 md:h-36 md:w-36 lg:w-48 lg:h-48 xl:h-64 xl:w-64 2xl:h-80 2xl:w-80 justify-self-auto ">
         <Link
           // className="h-24 w-24 sm:h-36 sm:w-36 md:h-44 md:w-44 lg:w-48 lg:h-48 xl:h-64 xl:w-64 2xl:h-80 2xl:w-80 justify-self-auto "
           href={url}
@@ -20,7 +20,7 @@ export default function Projects({ img, url }) {
             alt="icon"
             width={1536}
             height={1536}
-            className="rounded-lg border-slate-500 border"
+            className="object-fit-cover rounded-lg border-slate-500 border"
           />
         </Link>
       </div>
