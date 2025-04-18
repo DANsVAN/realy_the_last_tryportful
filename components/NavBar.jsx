@@ -11,7 +11,7 @@ export default function NavBar() {
     "flex justify-center  w-1/12 self-end h-3/4 pt-1 rounded-t-3xl border-x-2 border-t-2 tabLink relative px-10 md:px-15 lg:px-20 xl:w-2/12 border-slate-500 fixed z-10 bg-slate-900"
   );
   return (
-    <div className="bg-slate-700 border-slate-500 w-2/16top-0 w-full place-content-around flex items-center justify-items-center justify-around top h-20 border-b-2 fixed top-0 z-10">
+    <div className="bg-slate-700 border-slate-500 w-2/16top-0 w-full place-content-around flex items-center justify-items-center justify-around top h-20 border-b-2 stick top-0 z-10">
       <NavBarButtons
         ButtonName={"Home"}
         buttonCss={buttonCss}
