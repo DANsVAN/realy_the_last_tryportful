@@ -12,9 +12,9 @@ export default function HomePage() {
           alt="Jordan Weston Caldwell"
           width={1000}
           height={1500}
-          className="border-2 border-slate-500"
+          className="border-2 border-slate-500 mt-16"
         />
-        <p className="bg-transparent py-20">
+        <p className="bg-transparent pt-20 pb-10">
           My name is Jordan Weston Caldwell, and I'm currently 20 years old and
           in my junior year at Utah State University here in Logan, Utah. My
           passion lies firmly in the world of computers, which is why I've
