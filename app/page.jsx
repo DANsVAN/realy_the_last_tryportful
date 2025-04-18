@@ -4,7 +4,7 @@ import NavBar from "@/components/NavBar";
 import Image from "next/image";
 export default function HomePage() {
   return (
-    <div className="absolute inset-0 mx-auto my-auto bg-transparent lg:w-2/6 lg:h-2/6 sm:w-4/6 sm:h-4/6 w-5/6 h-5/6 md:w-3/6 md:h-3/6 text-center ">
+    <div className="inset-0 mx-auto my-auto bg-transparent lg:w-2/6 lg:h-2/6 sm:w-4/6 sm:h-4/6 w-5/6 h-5/6 md:w-3/6 md:h-3/6 text-center -z-50 relative py-24">
       <div>
         {/* <h1 className="py-5">Jordan Weston Caldwell</h1> */}
         <Image

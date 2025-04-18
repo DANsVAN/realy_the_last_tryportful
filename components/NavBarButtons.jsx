@@ -23,13 +23,10 @@ export default function NavBarButtons({
 
   if (pathName == "/" + ButtonName) {
     css = ActivebuttonCss;
-    console.log(ButtonName, "1");
   } else if (pathName + ButtonName == "/" + "Home") {
     css = ActivebuttonCss;
-    console.log(ButtonName, "2");
   } else {
     css = buttonCss;
-    console.log(ButtonName, "3");
   }
 
   return (
